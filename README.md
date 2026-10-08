@@ -1,34 +1,35 @@
-## Andre Seguin
+## andre seguin
 
-Cybersecurity Professional. I build detection pipelines, security data lakes, and the tooling that ties distributed cloud environments together — then lead the response when something breaks.
+**security engineer who ships software. fintech, cloud & AI.**
 
-**[→ acseguin21.github.io/andreseguin](https://acseguin21.github.io/andreseguin/)**
+I build detection pipelines, agent guardrails, and the security tooling that ties it together — the way product teams ship features: in git, through CI, code reviewed. 10+ years, from the network layer up through cloud, identity, and now AI.
 
----
-
-### What I work with
-
-```
-Cloud       AWS · Azure · GCP · Kubernetes · Terraform
-Detection   Detection-as-Code · Databricks · KQL · Splunk · Datadog
-Identity    Entra ID · AWS IAM · GCP IAM · Zero Trust · PKI
-Response    SIEM/XDR · SOAR · Threat Hunting · IR
-AI Dev      Claude Code · GitHub Copilot · Cursor
-Code        Python · Bash · PowerShell · REST APIs
-```
+**[→ andreseguin.me](https://andreseguin.me)**
 
 ---
 
-### Public repos
+### what I work with
 
-| Repo | What it is |
+```
+AI & agents   claude code · devin · MCP servers · LLM APIs
+cloud         AWS · GCP · azure · terraform · kubernetes · cloudflare
+detection     agentic SOC · detection-as-code · datadog · sumo logic
+appsec        semgrep · github advanced security
+fintech       plaid · MX · finicity
+code          python · bash · REST APIs · github actions
+```
+
+---
+
+### projects
+
+| repo | what it is |
 |------|-----------|
-| [kql-queries](https://github.com/acseguin21/kql-queries) | KQL detection and threat hunting queries |
-| [ir-runbooks](https://github.com/acseguin21/ir-runbooks) | Incident response runbooks |
-| [sigma](https://github.com/acseguin21/sigma) | Sigma rule repository (fork) |
-| [osint-research-playbook](https://github.com/acseguin21/osint-research-playbook) | OSINT research methodology |
-| [security-scripts](https://github.com/acseguin21/security-scripts) | Utility scripts for security ops |
+| [aitm-research](https://github.com/acseguin21/aitm-research) | adversary-in-the-middle research — CVE analysis, detection engineering, and appsec test suites |
+| [horton](https://github.com/acseguin21/horton) | a social-engineering CTF that runs in your terminal |
+| [trust-boundary-ctf](https://github.com/acseguin21/trust-boundary-ctf) | MCP session-isolation CTF built on a real vuln (CVE-2025-49596) |
+| [peak-to-sigma](https://github.com/acseguin21/peak-to-sigma) | turn PEAK threat-hunt reports into production detection rules |
 
 ---
 
-`CISSP` &nbsp; `CCNP` &nbsp; `LFCSA` &nbsp; `Security+` &nbsp; `PCCSA`
+`CISSP` &nbsp; `CCNP` &nbsp; `LFCS`
